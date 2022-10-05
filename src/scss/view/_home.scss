@@ -1,29 +1,38 @@
-h1 {
-  font-family: "Encode Sans Expanded", sans-serif;
-}
-
 #home {
   background-image: url("http://localhost/agri-health/assets/images/cow-bg.png");
   background-size: 50%;
   background-repeat: no-repeat;
   background-position: bottom right;
   overflow: hidden;
+
+  .container {
+    padding: 8rem;
+
+    .row {
+
+      .cow {
+
+      }
+    }
+  }
 }
-#home .container {
-  padding: 8rem;
-}
+
 #stats {
   padding: 5rem;
   background-color: #25721E;
   color: #fff;
-}
-#stats .container .stat {
-  font-size: 70px;
+
+  .container {
+
+    .stat {
+      font-size: 70px;
+    }
+  }
 }
 
-#space {
+#space{
   padding: 3rem;
-}
-#space img {
-  max-width: 250px;
+  img{
+    max-width: 250px;
+  }
 }

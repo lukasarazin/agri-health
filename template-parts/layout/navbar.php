@@ -13,6 +13,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#">Contact</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Offres</a>
+                </li>
             </ul>
         </div>
     </div>
