@@ -1,4 +1,8 @@
-<?php require_once 'template-parts/layout/header.php'; ?>
+<?php
+require_once 'template-parts/layout/header.php';
+require_once 'functions/test.php';
+
+?>
 
     <main>
         <section id="home">
