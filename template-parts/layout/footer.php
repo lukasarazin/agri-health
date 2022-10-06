@@ -20,7 +20,7 @@
             </div>
         </div>
     </section>
-    
+
     <div class="text-center">
         <?php require_once 'copyright.php'; ?>
     </div>

@@ -7,7 +7,7 @@ $a = getDistances();
 $c = getActivities();
 ?>
 
-<section id="data">
+<section id="data" class="p-5">
     <div class="container">
         <h1>Mes données</h1>
         <div class="row">
