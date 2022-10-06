@@ -1,5 +1,5 @@
 <footer id="footer">
-    <div class="container text-center">
+    <div class="text-center">
         <?php require_once 'copyright.php'; ?>
     </div>
 </footer>
