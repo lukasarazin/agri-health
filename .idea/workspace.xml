@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd397b9d-ac8e-493e-8e4d-896b101f19d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/functions/time.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error-404.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/functions/test.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_data.php" beforeDir="false" afterPath="$PROJECT_DIR$/my_data.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/1cd9488e7a5406d4947750934c9ab9b6.json.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/20a0fd84bcdc3c4a78eefcfb8c39eb79.json.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/67a0b1b8620c9801ecc1b9c05cd2c4c7.json.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/94d85791b884d5592173e1619efa5fd1.json.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/a182799a8df705922a5ddc0233dd6b1f.json.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/bc7f139c0b83f96e30387768fecf1245.json.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/be69501abbde26e1d84f1f60423634c1.json.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/c2a6a2fae449a6a6542fb42f49070130.json.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/babel-loader/fce3bd6d77f443fac24b4c45c13c07cf.json.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-style-loader/.github/ISSUE_TEMPLATE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vue-style-loader/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/Pro/WIS/Developpement Web/www_wis2/crud" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Documents/Pro/WIS/Developpement Web/www_wis1/trees_mspr-html" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -53,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665040071816</updated>
-      <workItem from="1665040074337" duration="7516000" />
+      <workItem from="1665040074337" duration="8150000" />
     </task>
     <servers />
   </component>
