@@ -20,7 +20,7 @@ require_once 'functions/test.php';
                         </div>
                     </div>
                     <div>
-                    <img src="http://localhost/agri-health/assets/images/cow-bg.png" alt="">
+                    <img src="http://localhost/agri-health/assets/images/cow-bg.png"  alt="">
                     </div>
                 </div>
             </div>
