@@ -1,5 +1,4 @@
 <footer id="footer">
-<<<<<<< HEAD
     <section id="stats" style="padding: 50px;">
         <div class="container">
             <div class="text-center row">
@@ -21,9 +20,7 @@
             </div>
         </div>
     </section>
-
-=======
->>>>>>> master
+    
     <div class="text-center">
         <?php require_once 'copyright.php'; ?>
     </div>
