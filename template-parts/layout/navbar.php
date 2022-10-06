@@ -1,22 +1,42 @@
-<nav class="navbar navbar-expand-lg bg-light">
+<nav class="navbar navbar-expand-sm" style="padding: 20px; font-size: 20px;">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">Accueil</a>
+       
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link" href="my_data.php">Mes données</a>
+
+
+
+<div class="collapse navbar-collapse" id="navbarNav">
+
+<div class="d-flex " style="margin-left: 185px;">
+
+<img src="http://localhost/agri-health/assets/images/logo.png" style="width: 50px; height: 50px; margin-right: 15px;" alt="">
+
+<ul class="navbar-nav ml-auto">
+
+    <li class="flex-end m-auto">
+        <a style="font-size: 25px; font-weight: 600; color: #25721E;" >Agri Health</a>
+</ul>
+</div>
+
+        
+            <ul class="navbar-nav ml-auto" style="margin-left: auto; margin-right: 185px;">
+
+                <li class="nav-item" style="padding-right: 35px;">
+                    <a class="nav-link" href="." style="color: #25721E;">Accueil</a>
+                </li>
+
+                <li class="nav-item" style="padding-right: 35px;">
+                    <a class="nav-link" href="contact.php" style="color: #25721E;">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contact</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Offres</a>
+                    <a class="nav-link" href="#" style="color: #25721E;">Mes données</a>
                 </li>
             </ul>
         </div>
-    </div>
+        </div>
+
+
 </nav>
