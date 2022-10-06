@@ -1,12 +1,8 @@
-#home {
-  background-image: url("http://localhost/agri-health/assets/images/cow-bg.png");
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-position: bottom;
-  overflow: hidden;
 
+#home {
+  
   .container {
-    padding: 6rem;
+    
 
     .row {
 
@@ -18,12 +14,11 @@
 }
 
 #stats {
-  padding: 5rem;
+
   background-color: #25721E;
   color: #fff;
 
   .container {
-
     .stat {
       font-size: 70px;
     }

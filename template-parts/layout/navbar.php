@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-sm" style="padding: 20px; font-size: 20px;">
+<nav class="navbar navbar-expand-sm" style="padding: 20px; padding-top: 30px;font-size: 20px;">
     <div class="container-fluid">
        
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
@@ -32,7 +32,7 @@
                     <a class="nav-link" href="contact.php" style="color: #25721E;">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#" style="color: #25721E;">Mes données</a>
+                    <a class="nav-link" href="my_data" style="color: #25721E;">Mes données</a>
                 </li>
             </ul>
         </div>

@@ -2,18 +2,7 @@ h1 {
   font-family: "Encode Sans Expanded", sans-serif;
 }
 
-#home {
-  background-image: url("http://localhost/agri-health/assets/images/cow-bg.png");
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-position: bottom;
-  overflow: hidden;
-}
-#home .container {
-  padding: 6rem;
-}
 #stats {
-  padding: 5rem;
   background-color: #25721E;
   color: #fff;
 }
