@@ -17,7 +17,7 @@
 <ul class="navbar-nav ml-auto">
 
     <li class="flex-end m-auto">
-        <a style="font-size: 25px; font-weight: 600; color: #25721E;" >Agri Health</a>
+        <a style="font-size: 25px; font-weight: 600; color: #25721E; text-decoration: none;" href=".">Agri Health</a>
 </ul>
 </div>
 

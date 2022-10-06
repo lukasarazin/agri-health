@@ -7,13 +7,10 @@ require_once 'template-parts/layout/header.php'; ?>
 
     <img class="leave-top-left" src="assets/image/leave-left.png" alt="">
 
-    <div class="container">
+    <div class="container" style="max-width: 900px;">
 
-        <div class="brand-logo">
-            <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-            <lottie-player class="lottie" src="https://assets6.lottiefiles.com/private_files/lf30_czbttpus.json"
-                           background="transparent" speed="1" style="width: 150px; height: 150px;"
-                           autoplay></lottie-player>
+        <div class="brand-logo text-center" >
+            <img src="http://localhost/agri-health/assets/images/logo.png" style="width: 50px; padding-bottom: 30px;">
         </div>
 
         <form method="POST" action="./template-parts/send_mail.php">
@@ -28,9 +25,6 @@ require_once 'template-parts/layout/header.php'; ?>
                 </div>
                 <div class="col name">
                     <div class="form">
-
-
-
 
                         <input value="" type="text" id="form3Example2"
                                min="3" max="20" class="form-control" placeholder="Nom" name="last_name" aria-invalid="false">
@@ -52,8 +46,8 @@ require_once 'template-parts/layout/header.php'; ?>
                               rows="10" placeholder="Votre message" required aria-invalid="false"></textarea>
             </div>
 
-            <div class="button-wrapper">
-                <button type="submit" class="btn btn-primary">Envoyer</button>
+            <div class="button-wrapper text-center" style="padding-top: 30px; padding-bottom: 30px;">
+                <button type="submit" class="btn btn-primary" style="background-color: #25721E; border: none;">Envoyer</button>
             </div>
 
         </form>
@@ -61,7 +55,7 @@ require_once 'template-parts/layout/header.php'; ?>
     </div>
 </section>
 
-
+<?php require_once 'template-parts/layout/footer.php'; ?>
 
 
 

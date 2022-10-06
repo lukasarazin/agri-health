@@ -51,3 +51,5 @@ $c = getActivities();
         </div>
     </div>
 </section>
+
+<?php require_once 'template-parts/layout/footer.php'; ?>
